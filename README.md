@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **React, Express**
 
-- 📫 How to reach me **grigoriy.svirid.2020@gmail.com**
-
 - ⚡ Fun fact **I think i'm funny and cool;)**
 
 <p align='center'>
