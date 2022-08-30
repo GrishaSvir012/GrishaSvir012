@@ -9,6 +9,14 @@
 - ⚡ Fun fact **I think i'm funny and cool;)**
 
 <p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=grishasvir012&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=grishasvir012&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
+
+<p align='center'>
    <a href="https://t.me/grisha_svir">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
