@@ -10,7 +10,13 @@
 
 - ⚡ Fun fact **I think i'm funny and cool;)**
 
-<h3 align="left">Connect with me:</h3>
+<p align='center'>
+   <a href="https://t.me/grisha_svir">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:grigoriy.svirid.2020@gmail.com'>grigoriy.svirid.2020@gmail.com</a>
+</p>
 <p align="left">
 </p>
 
