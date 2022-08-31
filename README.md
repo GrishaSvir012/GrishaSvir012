@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React Native**
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React,**JavaScript, **BootStrap, Express**
 
 - ⚡ Fun fact **I think i'm funny and cool;)**
 
